@@ -1,2 +1,2 @@
 # bootstrap-ej
-ejemplos y pruebas
+ejemplos y pruebas con bootstrap
